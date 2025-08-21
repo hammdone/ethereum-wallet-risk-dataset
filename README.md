@@ -1,9 +1,14 @@
 # Ethereum Wallet Risk Dataset
 
+
 ## Overview
 This dataset contains Ethereum wallet-level features designed for analyzing wallet behavior and risk. Each wallet is labeled as **Dodgy** or **Legit** based on internal risk signals such as transaction patterns, clustering with risky wallets, contract interactions, and token holdings. This dataset can be used for blockchain analytics, wallet risk scoring, fraud detection, and machine learning experiments.
 
 ---
+
+## Disclaimer
+
+This dataset is compiled from publicly available Ethereum blockchain data and is intended solely for research, educational, or analytical purposes. No private keys, personal information, or non-public data have been included.
 
 ## Dataset Features
 
