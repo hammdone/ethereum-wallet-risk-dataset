@@ -59,6 +59,10 @@ The dataset was derived from Ethereum blockchain data using programmatic extract
 
 ---
 
+## Citation / DOI
+
+Please cite this dataset using the DOI: 10.5281/zenodo.16922741
+
 ## Example Usage
 
 ```python
